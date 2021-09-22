@@ -7,4 +7,4 @@ Difference between window, screen and document in javascript.
 
     *document contains the DOM, initialized by parsing HTML.
    
-    *screen describes the physical display's full screen.
+    *screen describes the physical display's full screen. 
